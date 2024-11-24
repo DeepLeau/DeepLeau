@@ -18,6 +18,6 @@
 🎯 **Looking to collaborate on**: Open-source backend projects and tools for developers.
 
 📬 **Contact me**:
-- Portfolio: [[thomas_bodenan.com](https://lightcyan-hornet-674853.hostingersite.com/)]
+- Portfolio: [thomas_bodenan.com](https://lightcyan-hornet-674853.hostingersite.com/)
 - LinkedIn: [www.linkedin.com/in/thomas-bodénan](www.linkedin.com/in/thomas-bodénan)
 - Email: thomas.bodenan@gmail.com
