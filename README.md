@@ -20,3 +20,7 @@
 📬 **Contact me**:
 - Portfolio: [thomas_bodenan.com](https://lightcyan-hornet-674853.hostingersite.com/)
 - Email: thomas.bodenan@gmail.com
+
+----
+
+[![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepLeau)](https://github.com/anuraghazra/github-readme-stats)
