@@ -1,6 +1,6 @@
-👋 Hi, I'm Thomas Bodénan !
+[![MasterHead](thomas_banner.png)](https://github.com/DeepLeau/DeepLeau/blob/main/thomas_banner.png)
 
-🚀 **Passionate Developer** with a love for building efficient and scalable applications.
+👋 Hi, I'm Thomas Bodénan !
 
 🖥️ **What I do**:
 - 🔹 Backend Development (Python, Go, Node.js)
