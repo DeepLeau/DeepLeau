@@ -19,5 +19,4 @@
 
 📬 **Contact me**:
 - Portfolio: [thomas_bodenan.com](https://lightcyan-hornet-674853.hostingersite.com/)
-- LinkedIn: [linkedin.com](www.linkedin.com/in/thomas-bodénan)
 - Email: thomas.bodenan@gmail.com
