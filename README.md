@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Thomas Bodénan !
 
-<!--
-**DeepLeau/DeepLeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Passionate Developer** with a love for building efficient and scalable applications.
 
-Here are some ideas to get you started:
+🖥️ **What I do**:
+- 🔹 Backend Development (Python, Go, Node.js)
+- 🔹 API Design & Integration
+- 🔹 Building Bots (e.g., Trading bots, Slack bots)
+- 🔹 Data Analysis & Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently learning**: Advanced WebGL for 3D graphics and interactive experiences.
+
+📌 **Fun Projects**:
+- 🧠 AI-driven Chatbots
+- 🎮 Retro Gaming Systems
+- 🌌 Visualizations of Space & Science
+
+🎯 **Looking to collaborate on**: Open-source backend projects and tools for developers.
+
+📬 **Contact me**:
+- Portfolio: [[thomas_bodenan.com](https://lightcyan-hornet-674853.hostingersite.com/)]
+- LinkedIn: [www.linkedin.com/in/thomas-bodénan](www.linkedin.com/in/thomas-bodénan)
+- Email: thomas.bodenan@gmail.com
