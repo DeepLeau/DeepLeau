@@ -4,9 +4,7 @@
 
 <div align="left">
 
-  ![Commits this month](https://img.shields.io/github/commit-activity/m/DeepLeau/DeepLeau?label=Commits%20this%20month&style=for-the-badge)
   [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-  ![Public Repositories](https://img.shields.io/github/repos/DeepLeau?label=Public%20Repositories&style=for-the-badge)
 
 </div>
 
