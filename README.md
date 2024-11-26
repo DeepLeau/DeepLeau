@@ -18,6 +18,16 @@
 - Portfolio: [thomas_bodenan.com](https://lightcyan-hornet-674853.hostingersite.com/)
 - Email: thomas.bodenan@gmail.com
 
+**Technology Stack**:
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
+[![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
+[![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
+
 ---
 
 <div align="center">
