@@ -2,6 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=DeepLeau)
 
+<div align="left">
+
+  ![Commits this month](https://img.shields.io/github/commit-activity/m/DeepLeau/DeepLeau?label=Commits%20this%20month&style=for-the-badge)
+  ![Public Repositories](https://img.shields.io/github/repos/DeepLeau?label=Public%20Repositories&style=for-the-badge)
+
+</div>
+
 🖥️ **What I do**:
 - 🔹 Backend Development (Python, Go, Node.js)
 - 🔹 API Design & Integration
@@ -27,7 +34,8 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepLeau)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepLeau&layout=compact)
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=DeepLeau&count_private=true&show_icons=true&hide=contribs)
+
 
 
