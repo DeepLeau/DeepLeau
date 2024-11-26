@@ -18,6 +18,7 @@
 - Portfolio: [thomas_bodenan.com](https://lightcyan-hornet-674853.hostingersite.com/)
 - Email: thomas.bodenan@gmail.com
 
+
 <div align="center">
 
   ## **Technology Stack**
@@ -60,6 +61,8 @@
 
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepLeau&layout=compact)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=DeepLeau&count_private=true&show_icons=true&hide=contribs)
 
 ---
 
@@ -73,9 +76,4 @@
 </div>
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepLeau&layout=compact)
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=DeepLeau&count_private=true&show_icons=true&hide=contribs)
-
-
 
