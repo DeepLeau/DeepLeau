@@ -1,13 +1,9 @@
 [![MasterHead](thomas_banner.png)](https://github.com/DeepLeau/DeepLeau/blob/main/thomas_banner.png)
 
-<div align="left">
-  ![](https://komarev.com/ghpvc/?username=DeepLeau)
-  [![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
-  [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+![](https://komarev.com/ghpvc/?username=DeepLeau)
+[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
   
-
-</div>
-
 🖥️ **What I do**:
 - 🔹 Backend Development (Python, Go, Node.js)
 - 🔹 API Design & Integration
