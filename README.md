@@ -17,3 +17,5 @@
 ----
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepLeau&layout=compact)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=DeepLeau&count_private=true&show_icons=true&hide=contribs)
+
