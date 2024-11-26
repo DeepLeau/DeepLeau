@@ -1,7 +1,7 @@
 [![MasterHead](thomas_banner.png)](https://github.com/DeepLeau/DeepLeau/blob/main/thomas_banner.png)
 
 ![](https://komarev.com/ghpvc/?username=DeepLeau)
-[![GitHub commits](https://badgen.net/github/commits/DeepLeau/)](https://GitHub.com/DeepLeau/)
+[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js/commits)](https://GitHub.com/DeeNaereenpLeau/Strapdown.js/commits)
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![DeepLeau's github trophy](https://github-profile-trophy.vercel.app/?username=DeepLeau&row=1)](https://github.com/ryo-ma/github-profile-trophy)
