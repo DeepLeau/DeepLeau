@@ -59,7 +59,7 @@
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepLeau&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepLeau&hide=javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=DeepLeau&count_private=true&show_icons=true&hide=contribs)
 
 ---
