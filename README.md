@@ -60,7 +60,7 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepLeau&hide=javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Overall Stats](github-readme-stats-deepleaus-projects.vercel.app/api?username=DeepLeau&count_private=true&show_icons=true&hide=contribs)
+[![Anurag's GitHub stats](https://github-readme-stats-deepleaus-projects.vercel.app/api?username=deepleau)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
