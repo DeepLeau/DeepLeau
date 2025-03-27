@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=DeepLeau)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![DeepLeau's github trophy](https://github-profile-trophy.vercel.app/?username=DeepLeau&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![DeepLeau's github trophy](github-readme-stats-deepleaus-projects.vercel.app/?username=DeepLeau&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
 🖥️ **What I do**:
 - 🔹 Backend Development (Python, Go, Node.js)
@@ -60,7 +60,7 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepLeau&hide=javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=DeepLeau&count_private=true&show_icons=true&hide=contribs)
+![Overall Stats](github-readme-stats-deepleaus-projects.vercel.app/api?username=DeepLeau&count_private=true&show_icons=true&hide=contribs)
 
 ---
 
