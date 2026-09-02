@@ -2,7 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=DeepLeau)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![DeepLeau's github trophy](https://github-profile-trophy-sigma.vercel.app/?username=DeepLeau&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
 🖥️ **What I do**
 Building AI-native developer tools and backend systems — currently working on Kurtel, a memory layer for AI coding agents (Claude Code, Codex).
