@@ -4,16 +4,15 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![DeepLeau's github trophy](https://github-profile-trophy-sigma.vercel.app/?username=DeepLeau&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
-🖥️ **What I do**:
-- 🔹 Backend Development (Python, Go, Node.js)
-- 🔹 API Design & Integration
-- 🔹 Building Bots (e.g., Trading bots, Slack bots)
-- 🔹 Data Analysis & Automation
+🖥️ **What I do**
+Building AI-native developer tools and backend systems — currently working on Kurtel, a memory layer for AI coding agents (Claude Code, Codex).
 
-🎯 **Looking to collaborate on**: Open-source backend projects and tools for developers.
+🔧 **Stack**: Python · Go · TypeScript · FastAPI · PostgreSQL · Docker
 
-📬 **Contact me**:
-- Portfolio: [thomas_bodenan.com](https://lightcyan-hornet-674853.hostingersite.com/)
+🎯 **Open to collaborating on**: open-source backend tools and AI agent infrastructure.
+
+📬 **Contact**
+- Portfolio: [thomas-bodenan.com](https://portfolio-thomas-iota.vercel.app/)
 - Email: thomas.bodenan@gmail.com
 
 
@@ -58,9 +57,6 @@
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepLeau&hide=javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats-deepleaus-projects.vercel.app/api?username=deepleau)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
