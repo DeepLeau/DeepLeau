@@ -4,36 +4,36 @@
 
 ![](https://komarev.com/ghpvc/?username=DeepLeau)
 
-<h2>De l'électron à l'idée</h2>
-<sub><i>ou : pourquoi je n'ai jamais vraiment arrêté de démonter des trucs</i></sub>
+<h2>From the electron to the idea</h2>
+<sub><i>or: why I never really stopped taking things apart</i></sub>
 
 <br>
 
-Ce qui me fascine dans l'informatique, ce n'est pas vraiment le code, c'est l'empilement.
+What fascinates me about computing isn't really the code, it's the stack.
 
-Un transistor qui ouvre ou ferme le passage d'un courant. Assemblés, ils deviennent des portes logiques : ET, OU, NON, la logique de Boole prenant forme dans le silicium. Empilées, elles deviennent un processeur, capable de compter, comparer, décider. Au-dessus, un compilateur traduit une intention humaine en instructions binaires. Encore au-dessus, un langage me permet d'écrire `if user.is_authenticated` sans jamais penser à la tension aux bornes d'un transistor.
+A transistor that opens or closes the path of a current. Assembled, transistors become logic gates: AND, OR, NOT, Boolean logic taking shape in silicon. Stacked, those gates become a processor, able to count, compare, decide. Above that, a compiler turns a human intention into binary instructions. Above that again, a language lets me write `if user.is_authenticated` without ever thinking about the voltage across a transistor.
 
-Chaque couche cache la précédente et l'assume à la fois. Mais un compilateur reste déterministe, documenté, avec un contrat stable : je peux toujours redescendre vérifier ce qu'il produit. C'est le même geste que démonter un appareil pour voir ce qu'il y a dedans, sauf qu'ici rien ne casse quand on ouvre. Comprendre le système jusqu'en bas, puis choisir consciemment à quel étage construire : voilà ce qui m'anime depuis toujours.
+Every layer hides the one below it and answers for it at the same time. But a compiler stays deterministic, documented, with a stable contract: I can always go back down and check what it produced. It's the same gesture as taking an appliance apart to see what's inside, except nothing breaks when you open it. Understanding a system all the way down, then deliberately choosing which floor to build on — that's what has always driven me.
 
-L'IA change la donne. C'est un accélérateur de connaissances fantastique, elle compresse des années d'apprentissage en quelques requêtes bien posées. Mais un modèle de langage est une couche probabiliste, sans interface stable ni garantie de reproductibilité. Ce qu'il produit reste vérifiable, bien sûr : du code, ça se lit, ça se teste, ça s'exécute. Le piège est ailleurs. Cette vérification demande exactement le jugement que l'usage confortable de l'outil dispense d'acquérir. Plus on délègue, moins on construit de quoi relire ce qu'on délègue. Le problème n'est donc pas l'abstraction en soi, c'est l'abstraction sans contrat, adossée à une compétence qui s'atrophie.
+AI changes the picture. It's a fantastic accelerator of knowledge; it compresses years of learning into a handful of well-posed prompts. But a language model is a probabilistic layer, with no stable interface and no guarantee of reproducibility. What it produces is still verifiable, of course: code can be read, tested, run. The trap is elsewhere. That verification demands exactly the judgment that comfortable use of the tool excuses you from acquiring. The more you delegate, the less you build of what it takes to read back what you delegated. So the problem isn't abstraction itself, it's abstraction without a contract, resting on a skill that quietly atrophies.
 
-Commoditiser l'intelligence ne fera pas disparaître les ingénieurs pour autant. L'électricité aussi est devenue une commodité : il y a aujourd'hui des millions d'électriciens, et une poignée de gens qui conçoivent les réseaux, les transformateurs et les normes qui rendent leur métier possible. Les deux sont utiles, ils ne sont simplement pas le même métier. Moi, c'est le second qui m'intéresse : celui où il faut encore savoir pourquoi ça marche, et pas seulement que ça marche. On voit déjà ce que coûte l'inverse : des géants d'argile qui, à chaque amélioration des modèles, s'effritent un peu plus. Pas de couche à eux, juste un raccourci vers celle de quelqu'un d'autre.
+Commoditizing intelligence won't make engineers disappear, though. Electricity became a commodity too: today there are millions of electricians, and a handful of people who design the grids, the transformers and the standards that make their trade possible. Both are useful; they're simply not the same job. The second one is what interests me: the one where you still have to know why it works, and not only that it works. We can already see what the alternative costs — giants of clay that crumble a little further with every model improvement. No layer of their own, just a shortcut to someone else's.
 
-Je pourrais avoir tort. Si ces modèles finissent par offrir des contrats aussi stables et vérifiables qu'un compilateur, la distinction s'effondre, et il ne restera qu'une couche de plus à apprivoiser comme toutes les autres.
+I could be wrong. If these models end up offering contracts as stable and verifiable as a compiler's, the distinction collapses, and there'll be one more layer to get comfortable with, like all the others.
 
-## Ce que je construis avec ça
+## What I'm building with it
 
-**Kurtel**, une mémoire darwinienne pour les agents de code IA (Claude Code, Codex).
+**Kurtel**, a darwinian memory for AI coding agents (Claude Code, Codex).
 
-Darwinienne au sens strict : l'agent produit des tentatives qui divergent, ce qui se confirme utile survit et se transmet, le reste meurt. Kurtel oublie exprès. C'est la sélection qui compte, pas l'accumulation.
+Darwinian in the strict sense: the agent produces attempts that diverge, what proves useful survives and is passed on, the rest dies. Kurtel forgets on purpose. What matters is selection, not accumulation.
 
-L'agent que je vise n'a pas de disque : sa fenêtre de contexte se comporte comme une RAM effacée à chaque redémarrage. Lui donner une mémoire sélective, c'est lui offrir un disque qui trie plutôt qu'un disque qui empile.
+The agent I have in mind has no disk: its context window behaves like RAM wiped at every restart. Giving it a selective memory means giving it a disk that sorts rather than a disk that piles up.
 
-Et puisque je passe le texte ci-dessus à me méfier des couches opaques : la mémoire est lisible, et on peut toujours redescendre voir pourquoi un souvenir a survécu et un autre non.
+And since I spend the text above warning against opaque layers: the memory is readable, and you can always go back down and see why one memory survived and another didn't.
 
-## Envie de creuser ensemble
+## Let's dig into it together
 
-Outils backend open-source, infrastructure pour agents IA, ou toute conversation sur pourquoi les choses marchent comme elles marchent.
+Open-source backend tools, infrastructure for AI agents, or any conversation about why things work the way they do.
 
 Contact
 
