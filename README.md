@@ -1,4 +1,4 @@
-[![MasterHead](thomas_banner.png)](https://github.com/DeepLeau/DeepLeau/blob/main/thomas_banner.png)
+<video src="header_github.mp4" autoplay loop muted playsinline width="100%"></video>
 
 ![](https://komarev.com/ghpvc/?username=DeepLeau)
 
