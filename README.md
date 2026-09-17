@@ -1,5 +1,6 @@
-<img width="702" height="396" alt="header_github" src="https://github.com/user-attachments/assets/3d5b1193-11ec-47ec-adee-17d08c4a1bc3" />
-
+<div align="center">
+  <img width="702" height="396" alt="header_github" src="https://github.com/user-attachments/assets/3d5b1193-11ec-47ec-adee-17d08c4a1bc3" />
+</div>
 
 ![](https://komarev.com/ghpvc/?username=DeepLeau)
 
