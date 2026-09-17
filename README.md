@@ -25,7 +25,7 @@ Je pourrais avoir tort. Si ces modèles finissent par offrir des contrats aussi 
 
 **Kurtel**, une mémoire darwinienne pour les agents de code IA (Claude Code, Codex).
 
-Darwinienne au sens strict : l'agent produit des tentatives qui divergent, ce qui se confirme utile survit et se transmet, le reste meurt. Kurtel oublie exprès — c'est la sélection qui compte, pas l'accumulation.
+Darwinienne au sens strict : l'agent produit des tentatives qui divergent, ce qui se confirme utile survit et se transmet, le reste meurt. Kurtel oublie exprès. C'est la sélection qui compte, pas l'accumulation.
 
 L'agent que je vise n'a pas de disque : sa fenêtre de contexte se comporte comme une RAM effacée à chaque redémarrage. Lui donner une mémoire sélective, c'est lui offrir un disque qui trie plutôt qu'un disque qui empile.
 
