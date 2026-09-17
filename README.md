@@ -1,6 +1,4 @@
-
-
-https://github.com/user-attachments/assets/b47b464a-f0ed-48f8-86f9-0a9e7afd1b26
+<video src="https://github.com/user-attachments/assets/b47b464a-f0ed-48f8-86f9-0a9e7afd1b26" autoplay loop muted playsinline width="100%"></video>
 
 ![](https://komarev.com/ghpvc/?username=DeepLeau)
 
